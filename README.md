@@ -1,5 +1,5 @@
 # Snow
-A program for making a snowfall on your desktop for Linux, Windows or MacOS
+A program for making a snowfall on your desktop for Linux, Windows and MacOS
 # How to run
 If you use the prebuilt EXE, just launch it in the directory with the images  
 If you want to build the EXE yourself, run  
