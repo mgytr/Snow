@@ -1,7 +1,7 @@
 # snow
 🎄 a program for making a snowfall on your desktop for linux, windows and macoS
 # how to run
-if you use the prebuilt EXE, just launch it in the directory with the images  
+if you use the prebuilt EXE in the releases, just launch it in the directory with the images  
 if you want to build the EXE yourself, run  
 `> pip install -r requirements.txt`  
 `> pip install nuitka`  
